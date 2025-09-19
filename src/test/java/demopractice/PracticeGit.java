@@ -4,6 +4,6 @@ public class PracticeGit {
 
 	public void demo()
 	{
-	   System.out.println("practicing github operations");
+	   System.out.println("practicing github operation");
 	}
 }
