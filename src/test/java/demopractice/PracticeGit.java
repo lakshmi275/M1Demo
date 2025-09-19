@@ -10,6 +10,8 @@ public class PracticeGit {
 	{
 	   System.out.println("practicing github operation");
 	   System.out.println("updating ");
+
+		System.out.println("updating ");
 	  
 	}
 }
